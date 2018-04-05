@@ -1,0 +1,5 @@
+
+syscfg.vals:
+  SHELL_TASK: 1
+  SHELL_OS_MODULE: 0
+  CONSOLE_TICKS: 0
